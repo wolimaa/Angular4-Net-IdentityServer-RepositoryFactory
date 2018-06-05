@@ -1,0 +1,9 @@
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule\bin\Debug\netcoreapp2.0\BlogModule.deps.json
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule\bin\Debug\netcoreapp2.0\BlogModule.dll
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule\bin\Debug\netcoreapp2.0\BlogModule.pdb
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule\obj\Debug\netcoreapp2.0\BlogModule.csprojResolveAssemblyReference.cache
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule\obj\Debug\netcoreapp2.0\BlogModule.csproj.CoreCompileInputs.cache
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule\obj\Debug\netcoreapp2.0\BlogModule.AssemblyInfoInputs.cache
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule\obj\Debug\netcoreapp2.0\BlogModule.AssemblyInfo.cs
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule\obj\Debug\netcoreapp2.0\BlogModule.dll
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule\obj\Debug\netcoreapp2.0\BlogModule.pdb

@@ -1,0 +1,9 @@
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\bin\Debug\netcoreapp2.0\CoreModule.Repository.deps.json
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\bin\Debug\netcoreapp2.0\CoreModule.Repository.dll
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\obj\Debug\netcoreapp2.0\CoreModule.Repository.csprojResolveAssemblyReference.cache
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\obj\Debug\netcoreapp2.0\CoreModule.Repository.csproj.CoreCompileInputs.cache
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\obj\Debug\netcoreapp2.0\CoreModule.Repository.AssemblyInfoInputs.cache
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\obj\Debug\netcoreapp2.0\CoreModule.Repository.AssemblyInfo.cs
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\bin\Debug\netcoreapp2.0\CoreModule.Repository.pdb
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\obj\Debug\netcoreapp2.0\CoreModule.Repository.dll
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\obj\Debug\netcoreapp2.0\CoreModule.Repository.pdb

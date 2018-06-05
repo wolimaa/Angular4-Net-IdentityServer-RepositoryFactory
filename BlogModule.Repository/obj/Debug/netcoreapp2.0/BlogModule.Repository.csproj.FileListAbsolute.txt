@@ -1,0 +1,14 @@
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\bin\Debug\netcoreapp2.0\BlogModule.Repository.deps.json
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\bin\Debug\netcoreapp2.0\BlogModule.Repository.dll
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\obj\Debug\netcoreapp2.0\BlogModule.Repository.csprojResolveAssemblyReference.cache
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\obj\Debug\netcoreapp2.0\BlogModule.Repository.csproj.CoreCompileInputs.cache
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\obj\Debug\netcoreapp2.0\BlogModule.Repository.AssemblyInfoInputs.cache
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\obj\Debug\netcoreapp2.0\BlogModule.Repository.AssemblyInfo.cs
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\bin\Debug\netcoreapp2.0\BlogModule.Repository.pdb
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\bin\Debug\netcoreapp2.0\BlogModule.dll
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\bin\Debug\netcoreapp2.0\BlogModule.pdb
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\obj\Debug\netcoreapp2.0\BlogModule.Repository.csproj.CopyComplete
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\obj\Debug\netcoreapp2.0\BlogModule.Repository.dll
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\obj\Debug\netcoreapp2.0\BlogModule.Repository.pdb
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\bin\Debug\netcoreapp2.0\BlogModule.Repository.runtimeconfig.json
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\bin\Debug\netcoreapp2.0\BlogModule.Repository.runtimeconfig.dev.json
