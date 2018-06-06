@@ -7,3 +7,6 @@ C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Re
 C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\bin\Debug\netcoreapp2.0\CoreModule.Repository.pdb
 C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\obj\Debug\netcoreapp2.0\CoreModule.Repository.dll
 C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\obj\Debug\netcoreapp2.0\CoreModule.Repository.pdb
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\bin\Debug\netcoreapp2.0\CoreModule.dll
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\bin\Debug\netcoreapp2.0\CoreModule.pdb
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\CoreModule.Repository\obj\Debug\netcoreapp2.0\CoreModule.Repository.csproj.CopyComplete

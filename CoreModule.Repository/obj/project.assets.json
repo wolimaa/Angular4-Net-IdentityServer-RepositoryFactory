@@ -937,6 +937,16 @@
           "lib/netstandard2.0/Microsoft.Practices.Unity.RegistrationByConvention.dll": {},
           "lib/netstandard2.0/Microsoft.Practices.Unity.dll": {}
         }
+      },
+      "CoreModule/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CoreModule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreModule.dll": {}
+        }
       }
     }
   },
@@ -3475,10 +3485,16 @@
         "unity.netcore.4.0.3.nupkg.sha512",
         "unity.netcore.nuspec"
       ]
+    },
+    "CoreModule/1.0.0": {
+      "type": "project",
+      "path": "../CoreModule/CoreModule.csproj",
+      "msbuildProject": "../CoreModule/CoreModule.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "CoreModule >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.1.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "Unity.NetCore >= 4.0.3"
@@ -3516,7 +3532,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\w.lima\\repo\\Angular4-Net-IdentityServer-RepositoryFactory\\CoreModule\\CoreModule.csproj": {
+              "projectPath": "C:\\Users\\w.lima\\repo\\Angular4-Net-IdentityServer-RepositoryFactory\\CoreModule\\CoreModule.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

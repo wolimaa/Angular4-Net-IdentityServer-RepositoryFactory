@@ -16,3 +16,7 @@ C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\Blog\bin\Debu
 C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\Blog\bin\Debug\netcoreapp2.0\BlogModule.Repository.pdb
 C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\Blog\bin\Debug\netcoreapp2.0\BlogModule.pdb
 C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\Blog\obj\Debug\netcoreapp2.0\Blog.csproj.CopyComplete
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\Blog\bin\Debug\netcoreapp2.0\x86\sqlite3.dll
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\Blog\bin\Debug\netcoreapp2.0\x64\sqlite3.dll
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\Blog\bin\Debug\netcoreapp2.0\Framework.dll
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\Blog\bin\Debug\netcoreapp2.0\Framework.pdb

@@ -12,3 +12,5 @@ C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Re
 C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\obj\Debug\netcoreapp2.0\BlogModule.Repository.pdb
 C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\bin\Debug\netcoreapp2.0\BlogModule.Repository.runtimeconfig.json
 C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\bin\Debug\netcoreapp2.0\BlogModule.Repository.runtimeconfig.dev.json
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\bin\Debug\netcoreapp2.0\x86\sqlite3.dll
+C:\Users\w.lima\repo\Angular4-Net-IdentityServer-RepositoryFactory\BlogModule.Repository\bin\Debug\netcoreapp2.0\x64\sqlite3.dll

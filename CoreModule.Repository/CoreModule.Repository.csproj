@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\" />
+    <ProjectReference Include="..\CoreModule\CoreModule.csproj" />
   </ItemGroup>
 
 </Project>

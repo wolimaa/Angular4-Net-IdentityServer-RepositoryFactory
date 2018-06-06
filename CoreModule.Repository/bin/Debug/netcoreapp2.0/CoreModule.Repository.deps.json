@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v2.0": {
       "CoreModule.Repository/1.0.0": {
         "dependencies": {
+          "CoreModule": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.0",
           "Unity.NetCore": "4.0.3"
         },
@@ -488,6 +489,11 @@
           "lib/netstandard2.0/Microsoft.Practices.Unity.RegistrationByConvention.dll": {},
           "lib/netstandard2.0/Microsoft.Practices.Unity.dll": {}
         }
+      },
+      "CoreModule/1.0.0": {
+        "runtime": {
+          "CoreModule.dll": {}
+        }
       }
     }
   },
@@ -888,6 +894,11 @@
       "sha512": "sha512-Se1z5U72aUzd5CklbtYD30iPB1D5zoe1X9MVgmyczwGgR//SEcfoT2BIlOzc0zpHB6nMIH3RvBULcpAza377nA==",
       "path": "unity.netcore/4.0.3",
       "hashPath": "unity.netcore.4.0.3.nupkg.sha512"
+    },
+    "CoreModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
